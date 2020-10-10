@@ -1,0 +1,1 @@
+{"id":"org.infernoiptv","version":"1.0.1","name":"Inferno IPTV","description":"Latino IPTV/Peliculas","resources":["stream","meta","catalog"],"types":["tv","channel"],"idPrefixes":["Inferno"],"icon":"https://github.com/mik25/inferno.git/logo.png","catalogs":[{"id":"Infernocat","name":"Inferno IPTV","type":"tv"}]}
